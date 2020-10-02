@@ -1,3 +1,5 @@
+Please read the project report available in main directory to find out more about the subject and how we approach it.
+
 The code associated with the project is organized as follows:
 - Data augmentation (from images directly, locally): data_augmenting.py
 - Creation of datasets (from previous images stored at the following git - https://gitlab.binets.fr/paul.calot-plaetevoet/plantpathology_2020.git): creatingDatasets.ipynb
