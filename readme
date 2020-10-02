@@ -1,4 +1,7 @@
+# Plant pathology diagnosis: A computer vision application
 Please read the project report available in main directory to find out more about the subject and how we approach it.
+
+## How to use the code
 
 The code associated with the project is organized as follows:
 - Data augmentation (from images directly, locally): data_augmenting.py
