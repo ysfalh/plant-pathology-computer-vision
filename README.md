@@ -7,12 +7,12 @@ The code associated with the project is organized as follows:
 - Data augmentation (from images directly, locally): data_augmenting.py
 - Creation of datasets (from previous images stored at the following git - https://gitlab.binets.fr/paul.calot-plaetevoet/plantpathology_2020.git): creatingDatasets.ipynb
 - Development of architectures. The selected notebooks are as follows:
-- resnet50.ipynb
-- googlenet.ipynb
-- vgg16.ipynb
-- efnetb3.ipynb
-- processing_resnet50_definitive.ipynb
-- processing_resnet50_3classes.ipynb
+-- resnet50.ipynb
+-- googlenet.ipynb
+-- vgg16.ipynb
+-- efnetb3.ipynb
+-- processing_resnet50_definitive.ipynb
+-- processing_resnet50_3classes.ipynb
 
 A drive with the following datasets, in torch.dataset format, is also available at the following address: https://drive.google.com/drive/folders/1xTUMQhu-JbkTSriWoLJxmJXrj5jnrKym?usp=sharing
 
